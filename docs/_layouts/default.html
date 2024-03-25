@@ -14,25 +14,26 @@
     <style>
 
       body{
-        padding-bottom:  2rem;
+        padding-bottom:  4rem;
       }
       footer.site-footer{
-        padding: 2rem 6rem;
-        position: absolute;
+        padding: 2rem;
+        position: fixed;
         bottom: 0;
         width: 100%;
+        background: white;
+        margin: 0 auto;
       }
     </style>
   </head>
   <body>
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: Järvsö klätterklubb }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <!--<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>-->
     </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
-
     </main>
     <footer class="site-footer">
         <small>Järvsö Klätterklubb © 2024 | <a href="info@jarvsoklatterklubb.se">info@jarvsoklatterklubb.se</a></small>
