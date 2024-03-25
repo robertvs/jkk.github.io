@@ -11,6 +11,18 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    <style>
+
+      body{
+        padding-bottom:  2rem;
+      }
+      footer.site-footer{
+        padding: 2rem 6rem;
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+      }
+    </style>
   </head>
   <body>
     <header class="page-header" role="banner">
@@ -23,7 +35,7 @@
 
     </main>
     <footer class="site-footer">
-        <small>Järvsö Klätterklubb © 2024</small>
+        <small>Järvsö Klätterklubb © 2024 | <a href="info@jarvsoklatterklubb.se">info@jarvsoklatterklubb.se</a></small>
     </footer>
   </body>
 </html>
