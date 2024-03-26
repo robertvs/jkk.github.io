@@ -53,7 +53,9 @@
     </header>
     <nav>
       {% for p in site.pages %}
-        <a class="nav.link" href="{{ p.url }}" title="{{ p.title + p.url }}">{{ p.title }}</a>
+        {% if p.url contains "/pages/" %}
+          <a class="nav.link" href="{{ p.url }}" title="{{ p.title }}">{{ p.title }}</a>
+        {% endif %}
       {% endfor %}
     </nav>
 
