@@ -5,8 +5,4 @@ Vi är glada att du har hittat till oss! Oavsett om du är en erfaren klättrare
 För att lära dig mer om vår förening, dess syfte och regler, vänligen ta en titt på våra stadgar. Klicka här för att läsa stadgarna: [Länk till stadgarna](stadgar.md)
 
 ## Medlem
-Medlem kan man bli genom att betala medlemsavgift på 150:- till Fredrik
-
-## Snabblänkar 
-- [Stadgar](stadgar.md)
-- [Förare](forare.md)
+Medlem kan man bli genom att betala medlemsavgift på 150:- till Fredrik 🤷
