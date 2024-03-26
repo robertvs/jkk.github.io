@@ -1,5 +1,4 @@
-# Stadgar för Järvsö Klätterklubb
-
+# Stadgar
 ## 1 § Syfte
 Vi vill på alla nivåer bedriva klättring så att den utvecklar människor positivt. Vår klätterklubbs syfte är att främja en inkluderande och jämställd miljö där alla kan njuta av klättringens glädje och utmaningar på ett säkert sätt. Därför vill vi utforma vår idrott så att den;
 1. främjar klättring som en aktivitet och gemenskap bland klättrare.

@@ -51,15 +51,15 @@
       <!--<h1 class="project-name">{{ page.title | default: site.title | default: Järvsö klätterklubb }}</h1>-->
       <!--<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>-->
     </header>
-    <nav>
-      {% for p in site.pages %}
-        {% if p.url contains "/pages/" %}
-          <a class="nav.link" href="{{ p.url }}" title="{{ p.title }}">{{ p.title }}</a>
-        {% endif %}
-      {% endfor %}
-    </nav>
 
     <main id="content" class="main-content" role="main">
+      <nav>
+        {% for p in site.pages %}
+          {% if p.url contains "/pages/" %}
+            <a class="nav-link" href="{{ p.url }}" title="{{ p.title }}">{{ p.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </nav>
       {{ content }}
     </main>
     <footer class="site-footer">
