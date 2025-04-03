@@ -4,9 +4,6 @@ Vi är glada att du har hittat till oss! Oavsett om du är en erfaren klättrare
 <br />
 För att lära dig mer om vår förening, dess syfte och regler, vänligen ta en titt på våra stadgar. Klicka här för att läsa stadgarna: [Länk till stadgarna](stadgar.md)
 
-## Årsmöte 2025
-[Länk till dagordning](https://docs.google.com/document/d/1w07iOuuIoZs0AjSBFCVgHVMBMvGMHdeHmDQgGenyUjo/edit?usp=drivesdk)
-
 ## Bli medlem i Järvsö Klätterklubb!
 
 Vi välkomnar dig att bli en del av vår gemenskap i Järvsö Klätterklubb. Som medlem får du tillgång till klubbens aktiviteter och en chans att utvecklas tillsammans med andra klätterentusiaster 😍
