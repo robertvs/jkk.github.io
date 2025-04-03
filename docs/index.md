@@ -19,8 +19,14 @@ Tack för att du stödjer Järvsö Klätterklubb! Vi ser fram emot att klättra 
 - [Kontakta oss med ev frågor här](mailto:info@jarvsoklatterklubb.se)
 
 
-### Medlemsavgiften för helåret 2024 är **150kr**.
+## Medlemsavgiften för helåret 2025 är **300kr**.
 Avgiften betalas via Swish till klubbens kassör Fredrik Quint, använd QR-koden här nedanför. 
 Märk betalningen med namn i meddelanderaden så att vi vet vem betalningen gäller för.
+
+### Vad ingår i medlemskapet?
+- **Medlemskap i Svenska Klätterförbundet:** <u>Tillgång till försäkring</u> och nationella klätterförmåner.
+- **Rabatt på klätterutrustning:** Vi undersöker samarbete med butiker för klubbmedlemmar.
+- **Gemensamma klubbaktiviteter:** Förhoppningsvis kan vi annordna återkommande klätterträffar, ex tisdagsklättring!
+- **Tillgång till klubbens utrustning:** Crashpads och klubbens klätterrep vid gemensamma klättringar
 
 ![image](https://github.com/user-attachments/assets/a5faeb98-8807-4cb1-9366-90cc162d0763)
