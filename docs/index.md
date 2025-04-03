@@ -2,7 +2,7 @@
 <!--![morkberget_header](https://github.com/robertvs/jkk/assets/1116237/15e841cc-ff76-4abf-a41c-b1c32b4a1155)-->
 Vi är glada att du har hittat till oss! Oavsett om du är en erfaren klättrare eller nybörjare, så är du varmt välkommen att vara med oss och utforska spännande klättringsmöjligheter i Järvsöområdet.
 <br />
-För att lära dig mer om vår förening, dess syfte och regler, vänligen ta en titt på våra stadgar. Klicka här för att läsa stadgarna: [Länk till stadgarna](stadgar.md)
+För att lära dig mer om vår förening, dess syfte och regler, vänligen ta en titt på våra stadgar. Klicka här för att läsa stadgarna: [Länk till stadgarna](https://docs.google.com/document/d/1M0nirp2NZaA7-sKdFs0SBUQjfqH9rA5E/edit?usp=sharing&ouid=112270398775481835907&rtpof=true&sd=true)
 
 ## Bli medlem i Järvsö Klätterklubb!
 
