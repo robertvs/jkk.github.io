@@ -73,6 +73,7 @@
 
     <main id="content" class="main-content" role="main">
       <nav>
+        <a class="nav-link" href="/" title="Hem">Hem</a>
         {% for p in site.pages %}
           {% if p.url contains "/pages/" %}
             <a class="nav-link" href="{{ p.url }}" title="{{ p.title }}">{{ p.title }}</a>
