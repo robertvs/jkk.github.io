@@ -8,7 +8,23 @@ För att lära dig mer om vår förening, dess syfte och regler, vänligen ta en
 
 Vi välkomnar dig att bli en del av vår gemenskap i Järvsö Klätterklubb. Som medlem får du tillgång till klubbens aktiviteter och en chans att utvecklas tillsammans med andra klätterentusiaster 😍
 
-[För att bli medlem behöver du fylla i vårt medlemsformulär](https://docs.google.com/forms/d/e/1FAIpQLScs8pQbyuPi4kLirYZ2JV8JdVZsucmd8ZAt8jOEiU7NuRZMXQ/viewform) och betala medlemsavgiften på 150kr via Swish. Använd QR-koden nedan för en smidig betalning.
+### Vad ingår i medlemskapet?
+- **Rabatt på klätterutrustning:** Se hur du tar del av dina rabattkoder via: https://www.klatterforbundet.se/mina-sidor/
+- **Gemensamma klubbaktiviteter:** Förhoppningsvis kan vi annordna återkommande klätterträffar, ex tisdagsklättring!
+- **Tillgång till klubbens utrustning:** Crashpads och klubbens klätterrep vid gemensamma klättringar
+
+#### Som medlem i Svenska Klätterförbundet får du bla:
+- Tidningen **Bergsport** i brevlådan två gånger per år.
+- [Klätterförsäkring hos Folksam](https://www.folksam.se/forsakringar/idrottsforsakring/klattring). Ett bra grundskydd om du skadar dig under träning eller tävling, utomhus och inomhus.
+- Tjänsten [”Råd och Vård för idrottsskador”](https://www.folksam.se/forsakringar/idrottsforsakring/rad-och-vard-for-idrottsskador). Telefonrådgivning och fysisk rådgivning hos läkare eller fysioterapeut.
+- **Medlemsrabatter**. Som medlem i en klätterklubb får du fina rabatter hos bland annat Outnorth. Du hämtar dina koder [via ett formulär på den här sidan](https://www.klatterforbundet.se/mina-sidor/). Kontakta [förbundskansliet](mailto:kansliet@klatterforbundet.rf.se) om du stöter på problem.
+- Möjlighet att påverka klättringen lokalt, regionalt och nationellt.
+- Chans att tycka till om förbundets inriktning.
+- Bli [auktoriserad instruktör](https://www.klatterforbundet.se/utbildning/instruktor/bli-instruktor/) – om du vill.
+- Tävla i svenska mästerskap.
+- … och, inte minst: Du bidrar till en hållbar utveckling av **Klättersverige**.
+
+[För att bli medlem behöver du fylla i vårt medlemsformulär](https://docs.google.com/forms/d/e/1FAIpQLScs8pQbyuPi4kLirYZ2JV8JdVZsucmd8ZAt8jOEiU7NuRZMXQ/viewform) och betala medlemsavgiften på 300kr via Swish. Använd QR-koden nedan för en smidig betalning.
 
 Tack för att du stödjer Järvsö Klätterklubb! Vi ser fram emot att klättra med dig!
 
@@ -19,11 +35,5 @@ Tack för att du stödjer Järvsö Klätterklubb! Vi ser fram emot att klättra 
 ## Medlemsavgiften för helåret 2025 är **300kr**.
 Avgiften betalas via Swish till klubbens kassör Fredrik Quint, använd QR-koden här nedanför. 
 Märk betalningen med namn i meddelanderaden så att vi vet vem betalningen gäller för.
-
-### Vad ingår i medlemskapet?
-- **Medlemskap i Svenska Klätterförbundet:** <u>Tillgång till försäkring</u> och nationella klätterförmåner.
-- **Rabatt på klätterutrustning:** Se hur du tar del av dina rabattkoder via: https://www.klatterforbundet.se/mina-sidor/
-- **Gemensamma klubbaktiviteter:** Förhoppningsvis kan vi annordna återkommande klätterträffar, ex tisdagsklättring!
-- **Tillgång till klubbens utrustning:** Crashpads och klubbens klätterrep vid gemensamma klättringar
 
 ![image](https://github.com/user-attachments/assets/a5faeb98-8807-4cb1-9366-90cc162d0763)
