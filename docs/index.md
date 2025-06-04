@@ -9,9 +9,11 @@ För att lära dig mer om vår förening, dess syfte och regler, vänligen ta en
 Vi välkomnar dig att bli en del av vår gemenskap i Järvsö Klätterklubb. Som medlem får du tillgång till klubbens aktiviteter och en chans att utvecklas tillsammans med andra klätterentusiaster 😍
 
 ### Vad ingår i medlemskapet?
-- **Rabatt på klätterutrustning:** Se hur du tar del av dina rabattkoder via: https://www.klatterforbundet.se/mina-sidor/
-- **Gemensamma klubbaktiviteter:** Förhoppningsvis kan vi annordna återkommande klätterträffar, ex tisdagsklättring!
-- **Tillgång till klubbens utrustning:** Crashpads och klubbens klätterrep vid gemensamma klättringar
+- **Medlemskap i Svenska Klätterförbundet:** Du är automatiskt försäkrad via folksam 👍 _(läs mer nedan)_
+- **Rabatt på klätterutrustning:** 10 - 20% rabatt hos välkända onlinebutiker som Addnature och Outnorth
+- **Gemensamma klubbaktiviteter:** Spontana och schemalagda klättringsäventyr!
+- **Tillgång till klubbens utrustning:** Man får låna klubbens crashpads och klätterrep vid gemensamma klättringar
+- **Klättring på hotellväggen:** Du som är medlem får klättra hur mkt du vill på hotellväggen 🎉 🧗
 
 #### Som medlem i Svenska Klätterförbundet får du bla:
 - Tidningen **Bergsport** i brevlådan två gånger per år.
