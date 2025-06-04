@@ -22,7 +22,7 @@ Märk betalningen med namn i meddelanderaden så att vi vet vem betalningen gäl
 
 ### Vad ingår i medlemskapet?
 - **Medlemskap i Svenska Klätterförbundet:** <u>Tillgång till försäkring</u> och nationella klätterförmåner.
-- **Rabatt på klätterutrustning:** Vi undersöker samarbete med butiker för klubbmedlemmar.
+- **Rabatt på klätterutrustning:** Se hur du tar del av dina rabattkoder via: https://www.klatterforbundet.se/mina-sidor/
 - **Gemensamma klubbaktiviteter:** Förhoppningsvis kan vi annordna återkommande klätterträffar, ex tisdagsklättring!
 - **Tillgång till klubbens utrustning:** Crashpads och klubbens klätterrep vid gemensamma klättringar
 
