@@ -35,7 +35,8 @@ Tack för att du stödjer Järvsö Klätterklubb! Vi ser fram emot att klättra 
 
 
 ## Medlemsavgiften för helåret 2025 är **300kr**.
-Avgiften betalas via Swish till klubbens kassör Fredrik Quint, använd QR-koden här nedanför. 
+Avgiften betalas via Swish, använd QR-koden här nedanför. 
 Märk betalningen med namn i meddelanderaden så att vi vet vem betalningen gäller för.
 
-![image](https://github.com/user-attachments/assets/a5faeb98-8807-4cb1-9366-90cc162d0763)
+![jkk_qr_swish](https://github.com/user-attachments/assets/0b02bfa4-9cd6-4353-b9fb-eafe7598c986)
+<br />
